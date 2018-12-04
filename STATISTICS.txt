@@ -1,0 +1,13 @@
+Language: Urdu
+No of Sentences:  7185
+Total no. of semantically tagged words Using Lughat Dictionary:  7185
+No of Words: 222533
+Avg. words/ Sentences: 30.97
+Total No of Words as Nouns: 57150
+Total No of Words as Verbs: 25719
+Total No of Words as Adjectives: 15297
+Total No of Words as Adverbs: 3557
+Domain: News, Religion, Blogs, Literature, Science, Education and numerous others
+
+
+
